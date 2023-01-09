@@ -56,26 +56,18 @@ public class PersonService {
 		persons.add(p);
 //new person
 		p = new Person();
-                p.setId("7");
-                p.setAge(25);
-                p.setFirstName("ahmed");
-                p.setLastName("laggoun");
-                persons.add(p);
+		p.setId("7");
+		p.setAge(25);
+		p.setFirstName("ahmed");
+		p.setLastName("laggoun");
+		persons.add(p);
 		//new person
 		p = new Person();
-                p.setId("8");
-                p.setAge(25);
-                p.setFirstName("ahmed1");
-                p.setLastName("laggoun1");
-                persons.add(p);
-
-				//new person
-				p = new Person();
-                p.setId("9");
-                p.setAge(25);
-                p.setFirstName("ahmed2");
-                p.setLastName("laggoun2");
-                persons.add(p);
+		p.setId("8");
+		p.setAge(25);
+		p.setFirstName("ahmed1");
+		p.setLastName("laggoun1");
+		persons.add(p);
 
 		
 	}
